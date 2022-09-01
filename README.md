@@ -10,3 +10,4 @@
 - 🔍 interested in C/C++.
 
 <img src="https://badge.mediaplus.ma/kettlebells/nainhaja" alt="nainhaja's 42 stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nainhaja&theme=dracula&layout=compact)](https://github.com/nainhaja/github-readme-stats"/>
