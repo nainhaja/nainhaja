@@ -7,5 +7,4 @@
 
 - 📫 How to reach me **nizarainhajar@gmail.com**
 
-<p align="left">
-</p>
+
