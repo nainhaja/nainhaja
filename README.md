@@ -9,6 +9,3 @@
 
 - 🔍 interested in C/C++.
 
-<img src="https://badge.mediaplus.ma/kettlebells/nainhaja" alt="nainhaja's 42 stats"/>
-
-
