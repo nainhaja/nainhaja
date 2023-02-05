@@ -14,3 +14,4 @@ Performance-focused software developer motivated about technology and a strong b
 
 - 🔍 interested in C/C++/Typescript/Nestjs/Reactjs/html/css/Javascript.
 
+<img src="https://badge.mediaplus.ma/kettlebells/nainhaja" alt="nainhaja's 42 stats" />
