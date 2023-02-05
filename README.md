@@ -14,6 +14,11 @@ Performance-focused software developer motivated about technology and a strong b
 
 - 🔍 interested in C/C++/Typescript/Nestjs/Reactjs/html/css/Javascript.
 
+<h2> My Stats : </h2>
+
 <img src="https://badge.mediaplus.ma/kettlebells/nainhaja" alt="nainhaja's 42 stats" />
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nainhaja&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nainhaja&langs_count=15&layout=compact&theme=highcontrast)](https://github.com/nainhaja)
+
