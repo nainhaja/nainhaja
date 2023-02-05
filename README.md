@@ -6,11 +6,11 @@ Performance-focused software developer motivated about technology and a strong b
 
 
 
-- 🔭 I’m currently working on [42Cursus-ft-transcendence](https://github.com/nainhaja/42_ft_transcendence)
+- 🔭 I’m currently looking for an internship at an emrging company
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently specializing **web development**
 
 - 📫 How to reach me **nizarainhajar@gmail.com**
 
-- 🔍 interested in C/C++.
+- 🔍 interested in C/C++/Typescript/Nestjs/Reactjs/html/css/Javascript.
 
