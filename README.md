@@ -22,3 +22,21 @@ Performance-focused software developer motivated about technology and a strong b
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nainhaja&langs_count=15&layout=compact&theme=highcontrast)](https://github.com/nainhaja)
 
+
+<h2> How to reach me : </h2>
+ <p id="badges" align="center">
+  <a href="https://www.linkedin.com/in/nizar-ainhajar-847bbb199/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/nainhaja">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+
+  <a href="mailto:nizarainhajar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nainhaja&style=flat-square&color=blue" alt=""/>
+</div>
